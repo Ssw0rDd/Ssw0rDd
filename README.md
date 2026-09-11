@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ssw0rDd&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=55&animation=fadeIn&duration=1000&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ssw0rDd&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Dev%20Full%20Stack&descSize=18&descAlignY=55&animation=fadeIn&duration=1000&width=1000" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Desenvolvedor+Full+Stack;Apixonado+por+Tecnologia;Construindo+o+Futuro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,10 +15,8 @@
 ## About me
 
 ```
-Olá! Eu sou Sword
-Desenvolvedor Full Stack apaixonado por criar soluções inovadoras
-Sempre em busca de novos desafios e tecnologias
-Transformando ideias em código de qualidade
+Hello! I'm Sword Full Stack Developer 
+I'm passionate about programming and how it works and what it can do
 ```
 
 <div align="center">
@@ -62,8 +60,6 @@ Transformando ideias em código de qualidade
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
