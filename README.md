@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Full+Stack+Developer;Apixonado+por+Tecnologia;Construindo+o+Futuro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Full+Stack+Dev)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -19,8 +19,9 @@
 ## About
 
 ```
-Ola! Eu sou Sword, Desenvolvedor Full Stack.
-Gosto de programar e entender como as coisas funcionam.
+
+Hello! I'm Sword, Full Stack Developer. 
+I like programming and understanding how things work.
 ```
 
 ---
@@ -83,11 +84,11 @@ Gosto de programar e entender como as coisas funcionam.
 
 ---
 
-## Activity
+## Contributions
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ssw0rDd&theme=redical&hide_border=true&width=1000&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ssw0rDd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ssw0rDd&theme=redical&hide_border=true&width=1000&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -97,9 +98,12 @@ Gosto de programar e entender como as coisas funcionam.
 
 <div align="center">
 
-[![Sdk-Auth](https://github-readme-stats.vercel.app/api/pin/?username=Ssw0rDd&repo=Auth-Sdk&theme=radical)](https://github.com/Ssw0rDd/Auth-Sdk)
-[![Discord Database](https://github-readme-stats.vercel.app/api/pin/?username=Ssw0rDd&repo=db-discord&theme=radical)](https://github.com/Ssw0rDd/db-discord)
-[![Minecraft Hack](https://github-readme-stats.vercel.app/api/pin/?username=Ssw0rDd&repo=SakuraSight&theme=radical)](https://github.com/Ssw0rDd/SakuraSight)
+[![Auth-Sdk](https://img.shields.io/badge/Auth--Sdk-Rust-000000?style=for-the-badge&logo=rust&logoColor=white&link=https://github.com/Ssw0rDd/Auth-Sdk)](https://github.com/Ssw0rDd/Auth-Sdk)
+[![db-discord](https://img.shields.io/badge/db--discord-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/Ssw0rDd/db-discord)](https://github.com/Ssw0rDd/db-discord)
+[![Zipocloud-streaming](https://img.shields.io/badge/Zipocloud--streaming-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/Ssw0rDd/Zipocloud-streaming)](https://github.com/Ssw0rDd/Zipocloud-streaming)
+[![SakuraSight](https://img.shields.io/badge/SakuraSight-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&link=https://github.com/Ssw0rDd/SakuraSight)](https://github.com/Ssw0rDd/SakuraSight)
+[![group-sharescreen](https://img.shields.io/badge/group--sharescreen-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/Ssw0rDd/group-sharescreen)](https://github.com/Ssw0rDd/group-sharescreen)
+[![group-sharescreen-api](https://img.shields.io/badge/group--sharescreen--api-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/Ssw0rDd/group-sharescreen-api)](https://github.com/Ssw0rDd/group-sharescreen-api)
 
 </div>
 
@@ -115,12 +119,6 @@ Gosto de programar e entender como as coisas funcionam.
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ssw0rDd&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
 
 <div align="center">
 
