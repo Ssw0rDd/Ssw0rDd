@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Full+Stack+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Full+Stack+Developer;Apixonado+por+Tecnologia;Construindo+o+Futuro)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -19,9 +19,8 @@
 ## About
 
 ```
-
-Hello! I'm Sword, Full Stack Developer. 
-I like programming and understanding how things work.
+Ola! Eu sou Sword, Desenvolvedor Full Stack.
+Gosto de programar e entender como as coisas funcionam.
 ```
 
 ---
@@ -63,32 +62,11 @@ I like programming and understanding how things work.
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ssw0rDd&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssw0rDd&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
-
-</div>
-
----
-
 ## Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ssw0rDd&theme=radical&hide_border=true" width="70%" />
-
-</div>
-
----
-
-## Contributions
-
-<div align="center">
-
-[![Ssw0rDd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ssw0rDd&theme=redical&hide_border=true&width=1000&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
