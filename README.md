@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Full+Stack+Developer;Apixonado+por+Tecnologia;Construindo+o+Futuro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -19,8 +19,8 @@
 ## About
 
 ```
-Ola! Eu sou Sword, Desenvolvedor Full Stack.
-Gosto de programar e entender como as coisas funcionam.
+Hi! I'm Henrique, better known as Sword, and I'm a full-stack developer.
+I got into programming when I was a teenager, and I saw in it something incredible—the ability to create amazing things. I was never much of a student, but I love creating, and AI has helped me stay committed to this dream and create more projects.
 ```
 
 ---
