@@ -20,7 +20,8 @@
 
 ```
 Hi! I'm Henrique, better known as Sword, and I'm a full-stack developer.
-I got into programming when I was a teenager, and I saw in it something incredible—the ability to create amazing things. I was never much of a student, but I love creating, and AI has helped me stay committed to this dream and create more projects.
+I got into programming when I was a teenager, and I saw in it something incredible—the ability to create amazing things.
+I was never much of a student, but I love creating, and AI has helped me stay committed to this dream and create more projects.
 ```
 
 ---
